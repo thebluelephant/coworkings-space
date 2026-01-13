@@ -1,0 +1,52 @@
+.coworkingDetails {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 25px;
+    width: 400px;
+    gap: 15px;
+    border: solid 1px var(--light-grey);
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+    .chip {
+        position: absolute;
+        top: 40px;
+        left: 40px;
+        background-color: white;
+        border-radius: 25px;
+        color: var(--primary);
+        padding: 5px 10px;
+        font-weight: bold;
+        font-size: 0.9em;
+    }
+
+    img {
+        border-radius: 25px;
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+
+        span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .name {
+            color: black;
+            font-weight: bold;
+            font-size: 1.5em;
+        }
+
+        .address {
+            color: var(--grey);
+        }
+    }
+
+
+}

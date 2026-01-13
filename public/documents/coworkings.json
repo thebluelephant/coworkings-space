@@ -1,0 +1,1662 @@
+[
+    {
+        "id": 1,
+        "name": "3 Teinturiers",
+        "address": "3 Rue des Teinturiers",
+        "postal_code": "59491.0",
+        "city": "cityneuve-d'Ascq",
+        "website": "www.coworking-cityneuve-ascq.fr",
+        "latitude": 50.6678617,
+        "longitude": 3.1408507
+    },
+    {
+        "id": 2,
+        "name": "9GDM",
+        "address": "9-11 Rue Guyton de Morveau",
+        "postal_code": "75013.0",
+        "city": "Paris",
+        "website": "www.9gdm.com",
+        "latitude": 48.8249204,
+        "longitude": 2.3479764
+    },
+    {
+        "id": 3,
+        "name": "ADE Coworking",
+        "address": "9 Rue du Petit Châtelier",
+        "postal_code": "44300.0",
+        "city": "Nantes",
+        "website": "www.ade-coworking.net",
+        "latitude": 47.2461035,
+        "longitude": -1.5054178
+    },
+    {
+        "id": 4,
+        "name": "Amabla Coworking",
+        "address": "26 Rue Louis Guérin",
+        "postal_code": "69100.0",
+        "city": "cityurbanne",
+        "website": "www.amabla.org",
+        "latitude": 45.7773464,
+        "longitude": 4.8601405
+    },
+    {
+        "id": 5,
+        "name": "Anticafé",
+        "address": "79 Rue Quincampoix",
+        "postal_code": "75003.0",
+        "city": "Paris",
+        "website": "www.anticafe.eu",
+        "latitude": 48.8623047,
+        "longitude": 2.3510973
+    },
+    {
+        "id": 6,
+        "name": "Anticafé",
+        "address": "10 Rue de Richelieu",
+        "postal_code": "75001.0",
+        "city": "Paris",
+        "website": "www.anticafe.eu",
+        "latitude": 48.8641463,
+        "longitude": 2.3361736
+    },
+    {
+        "id": 7,
+        "name": "Anticafé",
+        "address": "59 Rue nationale",
+        "postal_code": "75013.0",
+        "city": "Paris",
+        "website": "www.anticafe.eu",
+        "latitude": 48.8255145,
+        "longitude": 2.3670688
+    },
+    {
+        "id": 8,
+        "name": "Anticafé",
+        "address": "6 Rue du Château d'Eau",
+        "postal_code": "75010",
+        "city": "Paris",
+        "website": "www.anticafe.eu",
+        "latitude": 48.8694851,
+        "longitude": 2.3615621
+    },
+    {
+        "id": 9,
+        "name": "Arrêt Minute",
+        "address": "96 Cours des Girondins",
+        "postal_code": "33500.0",
+        "city": "Libourne",
+        "website": "www.arretminute.fr",
+        "latitude": 44.9110981,
+        "longitude": -0.2428292
+    },
+    {
+        "id": 10,
+        "name": "Bastia Coworking",
+        "address": "26 Rue du Général Carbuccia",
+        "postal_code": "20200.0",
+        "city": "Bastia",
+        "website": "www.bastiacoworking.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 11,
+        "name": "BeCoworking",
+        "address": "60 Rue de la Jonquière",
+        "postal_code": "75017.0",
+        "city": "Paris",
+        "website": "www.be-coworking.fr",
+        "latitude": 48.8939336,
+        "longitude": 2.3219141
+    },
+    {
+        "id": 12,
+        "name": "BeCoworking",
+        "address": "24 Rue des Epinettes",
+        "postal_code": "75017",
+        "city": "Paris",
+        "website": "www.be-coworking.fr",
+        "latitude": 48.8951987,
+        "longitude": 2.3225763
+    },
+    {
+        "id": 13,
+        "name": "BeCoworking",
+        "address": "Porte de Saint-Ouen",
+        "postal_code": "75018",
+        "city": "Paris",
+        "website": "www.be-coworking.fr",
+        "latitude": 48.8971558,
+        "longitude": 2.3288425
+    },
+    {
+        "id": 14,
+        "name": "BeSquare",
+        "address": "62 Avenue Jean Lebas",
+        "postal_code": "59100.0",
+        "city": "Roubaix",
+        "website": "www.besquare-roubaix.com",
+        "latitude": 50.6930869,
+        "longitude": 3.1704021
+    },
+    {
+        "id": 15,
+        "name": "BoostinLyon",
+        "address": "11 Place Bellecour",
+        "postal_code": "69002.0",
+        "city": "Lyon",
+        "website": "www.boostinlyon.fr",
+        "latitude": 45.7581985,
+        "longitude": 4.8334729
+    },
+    {
+        "id": 16,
+        "name": "BTCoworking",
+        "address": "170 Rue Raymond Losserand",
+        "postal_code": "75014.0",
+        "city": "Paris",
+        "website": "www.btcoworking.com",
+        "latitude": 48.8300557,
+        "longitude": 2.3102136
+    },
+    {
+        "id": 17,
+        "name": "BTCoworking",
+        "address": "209 Rue de l'Université",
+        "postal_code": "75007",
+        "city": "Paris",
+        "website": "www.btcoworking.com",
+        "latitude": 48.8603765,
+        "longitude": 2.2983025
+    },
+    {
+        "id": 18,
+        "name": "Cocoba",
+        "address": "Rue Lekueder - ZI des Jonceaux",
+        "postal_code": "64700.0",
+        "city": "Hendaye",
+        "website": "www.cocoba.work",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 19,
+        "name": "Cocotte Minute",
+        "address": "19 Rue Jean Jacques Rousseau",
+        "postal_code": "33340.0",
+        "city": "Lesparre-Médoc",
+        "website": "www.cocotte-minute.info",
+        "latitude": 45.306877,
+        "longitude": -0.9396487
+    },
+    {
+        "id": 20,
+        "name": "Co-Factory",
+        "address": "677 Avenue de la République",
+        "postal_code": "59800.0",
+        "city": "Lille",
+        "website": "www.co-factory.fr",
+        "latitude": 50.656089,
+        "longitude": 3.0871898
+    },
+    {
+        "id": 21,
+        "name": "CoopWorking",
+        "address": "1 Avenue de l'Angevinière",
+        "postal_code": "44800.0",
+        "city": "Saint-Herblain",
+        "website": "www.coopworking-nantes.coop",
+        "latitude": 47.2448349,
+        "longitude": -1.6082301
+    },
+    {
+        "id": 22,
+        "name": "Coswos",
+        "address": "31 Rue de l'Argenterie",
+        "postal_code": "34000.0",
+        "city": "Montpellier",
+        "website": "www.coswos.fr",
+        "latitude": 43.6083639,
+        "longitude": 3.8775324
+    },
+    {
+        "id": 23,
+        "name": "Cowork In Grenoble",
+        "address": "16 Boulevard Maréchal Lyautey",
+        "postal_code": "38000.0",
+        "city": "Grenoble",
+        "website": "www.co-work.fr",
+        "latitude": 45.1850297,
+        "longitude": 5.7315343
+    },
+    {
+        "id": 24,
+        "name": "Cowork in the City",
+        "address": "27 Rue des Laitières",
+        "postal_code": "94300.0",
+        "city": "Vincennes",
+        "website": "www.coworkinthecity.fr",
+        "latitude": 48.846949,
+        "longitude": 2.4234164
+    },
+    {
+        "id": 25,
+        "name": "CoworkCube",
+        "address": "20 Cours Saint-Vincent",
+        "postal_code": "92130.0",
+        "city": "Issy-les-Moulineaux",
+        "website": "www.lecube.comfr",
+        "latitude": 48.8199743,
+        "longitude": 2.2531803
+    },
+    {
+        "id": 26,
+        "name": "Cowork'in Bourges",
+        "address": "20 chemin des Goulevents",
+        "postal_code": "18000.0",
+        "city": "Bourges",
+        "website": "www.coworkinbourges.fr",
+        "latitude": 47.0721695,
+        "longitude": 2.3702938
+    },
+    {
+        "id": 27,
+        "name": "Cowork'in Montpellier",
+        "address": "19 Rue de l'Ecole de Droit",
+        "postal_code": "34000.0",
+        "city": "Montpellier",
+        "website": "www.coworkinmontpellier.org",
+        "latitude": 43.609222,
+        "longitude": 3.8695807
+    },
+    {
+        "id": 28,
+        "name": "Coworking 78",
+        "address": "2 Rue Louis Blériot",
+        "postal_code": "78130.0",
+        "city": "Les Mureaux",
+        "website": "www.coworking78.fr",
+        "latitude": 48.9756346,
+        "longitude": 1.9166398
+    },
+    {
+        "id": 29,
+        "name": "Coworking Bordeaux",
+        "address": "180 Rue Judaïque",
+        "postal_code": "33000.0",
+        "city": "Bordeaux",
+        "website": "www.coworking-bordeaux.fr",
+        "latitude": 44.8406832,
+        "longitude": -0.5924487
+    },
+    {
+        "id": 30,
+        "name": "Coworking Epinal",
+        "address": "5 Allée six",
+        "postal_code": "88150.0",
+        "city": "Thaon-les-Vosges",
+        "website": "www.coworking-epinal.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 31,
+        "name": "Coworking Kaizen",
+        "address": "9 Rue André Darbon",
+        "postal_code": "33300.0",
+        "city": "Bordeaux",
+        "website": "www.location-bureau-bordeaux.fr",
+        "latitude": 44.8548964,
+        "longitude": -0.5678671
+    },
+    {
+        "id": 32,
+        "name": "Coworking Metz",
+        "address": "7 Avenue de Blida",
+        "postal_code": "57000.0",
+        "city": "Metz",
+        "website": "www.coworking.a-metz.info",
+        "latitude": 49.1264206,
+        "longitude": 6.183898
+    },
+    {
+        "id": 33,
+        "name": "Coworking Plaine Images",
+        "address": "99 A boulevard Constantin Descat",
+        "postal_code": "59200.0",
+        "city": "Tourcoing",
+        "website": "www.plaine-images.fr",
+        "latitude": 50.7009667,
+        "longitude": 3.1581617
+    },
+    {
+        "id": 34,
+        "name": "Coworking Rodez",
+        "address": "4 Boulevard Gambetta",
+        "postal_code": "12000.0",
+        "city": "Rodez",
+        "website": "www.coworking-rodez.fr",
+        "latitude": 44.3503566,
+        "longitude": 2.5735102
+    },
+    {
+        "id": 35,
+        "name": "Craft",
+        "address": "24 Rue des Vinaigriers",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.cafe-craft.com",
+        "latitude": 48.8731931,
+        "longitude": 2.3631738
+    },
+    {
+        "id": 36,
+        "name": "Darwin",
+        "address": "87 Quai des Queyries",
+        "postal_code": "33100.0",
+        "city": "Bordeaux",
+        "website": "www.darwin-ecosysteme.fr",
+        "latitude": 44.8497926,
+        "longitude": -0.5606553
+    },
+    {
+        "id": 37,
+        "name": "Desk'n Co",
+        "address": "143 Rue du Mont Blanc",
+        "postal_code": "74700.0",
+        "city": "Sallanches",
+        "website": "www.desk-n-co.com",
+        "latitude": 45.933625,
+        "longitude": 6.632273
+    },
+    {
+        "id": 38,
+        "name": "Digital Village",
+        "address": "13-15 Rue Vandrezanne",
+        "postal_code": "75013.0",
+        "city": "Paris",
+        "website": "www.digital-village.fr",
+        "latitude": 48.827451,
+        "longitude": 2.3537589
+    },
+    {
+        "id": 39,
+        "name": "Dojo",
+        "address": "24 Rue Béranger",
+        "postal_code": "75003.0",
+        "city": "Paris",
+        "website": "www.dojocrea.fr",
+        "latitude": 48.8666621,
+        "longitude": 2.3634387
+    },
+    {
+        "id": 40,
+        "name": "Dojo",
+        "address": "77 Avenue de la République",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.dojocrea.fr",
+        "latitude": 48.8643511,
+        "longitude": 2.3800988
+    },
+    {
+        "id": 41,
+        "name": "Dot Parade",
+        "address": "26 Bis Rue des Olivettes",
+        "postal_code": "44000.0",
+        "city": "Nantes",
+        "website": "www.dotparade.com",
+        "latitude": 47.210284,
+        "longitude": -1.5491383
+    },
+    {
+        "id": 42,
+        "name": "Eb-Lab",
+        "address": "12 Boulevard Georges Clémenceau",
+        "postal_code": "21000.0",
+        "city": "Dijon",
+        "website": "www.eb-lab.com",
+        "latitude": 47.3276582,
+        "longitude": 5.0489169
+    },
+    {
+        "id": 43,
+        "name": "Epicentre Cowork",
+        "address": "25 Rue des Gras",
+        "postal_code": "63000.0",
+        "city": "Clermont-Ferrand",
+        "website": "www.epicentrecowork.org",
+        "latitude": 45.778662,
+        "longitude": 3.0830417
+    },
+    {
+        "id": 44,
+        "name": "Espace Cadet",
+        "address": "5 Rue de Rochechouart",
+        "postal_code": "75009.0",
+        "city": "Paris",
+        "website": "www.espacecadet.com",
+        "latitude": 48.8768128,
+        "longitude": 2.3443774
+    },
+    {
+        "id": 45,
+        "name": "Esperluette",
+        "address": "2 Place Dumoustier",
+        "postal_code": "44000.0",
+        "city": "Nantes",
+        "website": "www.espace-esperluette.fr",
+        "latitude": 47.2182646,
+        "longitude": -1.5522254
+    },
+    {
+        "id": 46,
+        "name": "Euptouyou",
+        "address": "4 Rue Edith Piaf",
+        "postal_code": "44800.0",
+        "city": "Saint-Herblain",
+        "website": "www.euptouyou.com",
+        "latitude": 47.2303312,
+        "longitude": -1.6307413
+    },
+    {
+        "id": 47,
+        "name": "Eurêka Coworking",
+        "address": "4 Rue Croix de Malte",
+        "postal_code": "45000.0",
+        "city": "Orléans",
+        "website": "www.eurekacoworking.fr",
+        "latitude": 47.9041246,
+        "longitude": 1.9054365
+    },
+    {
+        "id": 48,
+        "name": "Focus digital",
+        "address": "52 Rue de Strasbourg",
+        "postal_code": "92400.0",
+        "city": "Courbevoie",
+        "website": "www.focusdigital.fr",
+        "latitude": 48.8929848,
+        "longitude": 2.2512973
+    },
+    {
+        "id": 49,
+        "name": "Forum Digital",
+        "address": "Rue Léopold Sédar-Senghor",
+        "postal_code": "14460.0",
+        "city": "Colombelles",
+        "website": "www.forum-digital.fr",
+        "latitude": 49.188363,
+        "longitude": -0.3056809
+    },
+    {
+        "id": 50,
+        "name": "Gonesse Factory",
+        "address": "25 Rue Gay Lussac",
+        "postal_code": "95500.0",
+        "city": "Gonesse",
+        "website": "www.gonessefactory.com",
+        "latitude": 48.9802826,
+        "longitude": 2.4608859
+    },
+    {
+        "id": 51,
+        "name": "Group'Union",
+        "address": "55 Rue Paradis",
+        "postal_code": "13006.0",
+        "city": "Marseille",
+        "website": "www.groupunion.fr",
+        "latitude": 43.291903,
+        "longitude": 5.377597
+    },
+    {
+        "id": 52,
+        "name": "Helmut et Raoul",
+        "address": "7 Rue Jean Sans Peur",
+        "postal_code": "59800.0",
+        "city": "Lille",
+        "website": "www.helmutetraoul.com",
+        "latitude": 50.6337973,
+        "longitude": 3.0607777
+    },
+    {
+        "id": 53,
+        "name": "Hubsy Café",
+        "address": "41 Rue Réaumur",
+        "postal_code": "75003.0",
+        "city": "Paris",
+        "website": "www.hubsy.fr",
+        "latitude": 48.8657417,
+        "longitude": 2.3542425
+    },
+    {
+        "id": 54,
+        "name": "IBB",
+        "address": "4 Rue Eugène Savoye",
+        "postal_code": "25000.0",
+        "city": "Besançon",
+        "website": "www.ibureaubisontin.com",
+        "latitude": 47.2497473,
+        "longitude": 6.0229057
+    },
+    {
+        "id": 55,
+        "name": "Ici Montreuil",
+        "address": "135 Boulevard Chanzy",
+        "postal_code": "93100.0",
+        "city": "Montreuil",
+        "website": "www.icimontreuil.com",
+        "latitude": 48.8589911,
+        "longitude": 2.4258448
+    },
+    {
+        "id": 56,
+        "name": "Intencity",
+        "address": "31 Rue de Reuilly",
+        "postal_code": "75012.0",
+        "city": "Paris",
+        "website": "www.intencity.fr",
+        "latitude": 48.847718,
+        "longitude": 2.3866013
+    },
+    {
+        "id": 57,
+        "name": "Intencity ",
+        "address": "6 Rue d'Estienne d'Orves",
+        "postal_code": "92110.0",
+        "city": "Clichy",
+        "website": "www.intencity.fr",
+        "latitude": 48.905802,
+        "longitude": 2.302557
+    },
+    {
+        "id": 58,
+        "name": "Iot Valley",
+        "address": "Rue Jean Rostand",
+        "postal_code": "31670.0",
+        "city": "Labège",
+        "website": "www.iot-valley.fr",
+        "latitude": 43.5452618,
+        "longitude": 1.510511
+    },
+    {
+        "id": 59,
+        "name": "Kera Working",
+        "address": "Route de Puyloubier",
+        "postal_code": "13530.0",
+        "city": "Trets",
+        "website": "www.kera-working.com",
+        "latitude": 43.4584342,
+        "longitude": 5.6842277
+    },
+    {
+        "id": 60,
+        "name": "Kiosk Office",
+        "address": "21b Avenue du Neuhof",
+        "postal_code": "67000.0",
+        "city": "Strasbourg",
+        "website": "www.starthop.eu",
+        "latitude": 48.5582976,
+        "longitude": 7.7658286
+    },
+    {
+        "id": 61,
+        "name": "Kitchen Cannes",
+        "address": "6 Rue Jean Daumas",
+        "postal_code": "06400",
+        "city": "Cannes",
+        "website": "www.kitchen-cannes.com",
+        "latitude": 43.552696,
+        "longitude": 7.025341
+    },
+    {
+        "id": 62,
+        "name": "Kwerk",
+        "address": "50 Route de la Reine",
+        "postal_code": "92100.0",
+        "city": "Boulogne-Billancourt",
+        "website": "www.kwerk.fr",
+        "latitude": 48.8394121,
+        "longitude": 2.2448453
+    },
+    {
+        "id": 63,
+        "name": "La Boussol",
+        "address": "7 Rue de Vendée",
+        "postal_code": "29200.0",
+        "city": "Brest",
+        "website": "www.laboussol.fr",
+        "latitude": 48.4041203,
+        "longitude": -4.5129453
+    },
+    {
+        "id": 64,
+        "name": "La Cagouille",
+        "address": "11 Rue de l'Aunis",
+        "postal_code": "17290.0",
+        "city": "Aigrefeuille-d'Aunis",
+        "website": "www.coworking-aigrefeuille.com",
+        "latitude": 46.1153705,
+        "longitude": -0.9351093
+    },
+    {
+        "id": 65,
+        "name": "La Cambuzz",
+        "address": "Rue Théodore Monod",
+        "postal_code": "35400.0",
+        "city": "Saint-Malo",
+        "website": "www.digital-saint-malo.com",
+        "latitude": 48.6469947,
+        "longitude": -2.0080114
+    },
+    {
+        "id": 66,
+        "name": "La Cantine",
+        "address": "20 Rue Duquesne",
+        "postal_code": "29200.0",
+        "city": "Brest",
+        "website": "www.lacantine-brest.net",
+        "latitude": 48.3923241,
+        "longitude": -4.4881902
+    },
+    {
+        "id": 67,
+        "name": "La Cantine",
+        "address": "Place Georges Pompidou",
+        "postal_code": "83000.0",
+        "city": "Toulon",
+        "website": "www.lacantine-toulon.org",
+        "latitude": 43.120545,
+        "longitude": 5.9388438
+    },
+    {
+        "id": 68,
+        "name": "La Cantine Numérique",
+        "address": "11 Impasse Juton",
+        "postal_code": "44000.0",
+        "city": "Nantes",
+        "website": "www.atlantic2.org",
+        "latitude": 47.2118156,
+        "longitude": -1.5514692
+    },
+    {
+        "id": 69,
+        "name": "La Capsule ",
+        "address": "5 Rue des Marmouzets",
+        "postal_code": "51100.0",
+        "city": "Reims",
+        "website": "www.reimscoworking.fr",
+        "latitude": 49.2559617,
+        "longitude": 4.0368013
+    },
+    {
+        "id": 70,
+        "name": "La Chapelle Coworking",
+        "address": "134 Rue Paul Bellamy",
+        "postal_code": "44000.0",
+        "city": "Nantes",
+        "website": "www.la-chapelle-coworking.fr",
+        "latitude": 47.2283538,
+        "longitude": -1.5616387
+    },
+    {
+        "id": 71,
+        "name": "La Coloc",
+        "address": "3 Rue Vincent Auriol",
+        "postal_code": "80000.0",
+        "city": "Amiens",
+        "website": "www.coworking-amiens.fr",
+        "latitude": 49.8896503,
+        "longitude": 2.3038486
+    },
+    {
+        "id": 72,
+        "name": "La Compagnie",
+        "address": "15 Avenue Henri Becquerel",
+        "postal_code": "51000.0",
+        "city": "Châlons-en-Champagne",
+        "website": "www.chalonscoworking.fr",
+        "latitude": 48.9681985,
+        "longitude": 4.3506886
+    },
+    {
+        "id": 73,
+        "name": "La Cordée",
+        "address": "61 Cours de la Liberté",
+        "postal_code": "69003.0",
+        "city": "Lyon",
+        "website": "www.la-cordee.netla-cordee-liberte-guillotiere",
+        "latitude": 45.7573659,
+        "longitude": 4.8428665
+    },
+    {
+        "id": 74,
+        "name": "La Cordée",
+        "address": "4 Quai Jean Moulin",
+        "postal_code": "69001.0",
+        "city": "Lyon",
+        "website": "www.la-cordee.netla-cordee-opera",
+        "latitude": 45.7672747,
+        "longitude": 4.8378144
+    },
+    {
+        "id": 75,
+        "name": "La Coroutine",
+        "address": "8 Rue Molière",
+        "postal_code": "59000.0",
+        "city": "Lille",
+        "website": "www.lacoroutine.org",
+        "latitude": 50.6292601,
+        "longitude": 3.0697695
+    },
+    {
+        "id": 76,
+        "name": "La Fabrique",
+        "address": "10 Rue Chaptal",
+        "postal_code": "34000.0",
+        "city": "Montpellier",
+        "website": "www.lafabriquecoworking.net",
+        "latitude": 43.6060236,
+        "longitude": 3.8715978
+    },
+    {
+        "id": 77,
+        "name": "La Factory",
+        "address": "156 Rue des Voies du Bois",
+        "postal_code": "92700.0",
+        "city": "Colombes",
+        "website": "www.factorycoworking.net",
+        "latitude": 48.9151947,
+        "longitude": 2.2465978
+    },
+    {
+        "id": 78,
+        "name": "La Factory",
+        "address": "144 Rue du Chemin Vert",
+        "postal_code": "75011.0",
+        "city": "Paris",
+        "website": "www.factorycoworking.net",
+        "latitude": 48.8625422,
+        "longitude": 2.3863528
+    },
+    {
+        "id": 79,
+        "name": "La Forge",
+        "address": "12 Rue Paul Doumer",
+        "postal_code": "15000.0",
+        "city": "Aurillac",
+        "website": "www.coworking-aurillac.fr",
+        "latitude": 44.9269813,
+        "longitude": 2.4451935
+    },
+    {
+        "id": 80,
+        "name": "La Grappe",
+        "address": "27 Rue Grosse Horloge",
+        "postal_code": "17400.0",
+        "city": "Saint-Jean-d'Angély",
+        "website": "www.espace-lagrappe.com",
+        "latitude": 45.9434874,
+        "longitude": -0.5204312
+    },
+    {
+        "id": 81,
+        "name": "La Grappe by Granilia",
+        "address": "Avenue de l'Europe",
+        "postal_code": "81600.0",
+        "city": "Gaillac",
+        "website": "www.lagrappe-granilia.fr",
+        "latitude": 43.9016141,
+        "longitude": 1.8769624
+    },
+    {
+        "id": 82,
+        "name": "La Kabane",
+        "address": "147 Rue de Limoges",
+        "postal_code": "16000.0",
+        "city": "Angoulême",
+        "website": "www.la-kabane.fr",
+        "latitude": 45.6589754,
+        "longitude": 0.1752155
+    },
+    {
+        "id": 83,
+        "name": "La Loco Numérique",
+        "address": "123 Boulevard Louis Blanc",
+        "postal_code": "85000",
+        "city": "La Roche-sur-Yon",
+        "website": "www.loco-numerique.fr",
+        "latitude": 46.6740676,
+        "longitude": -1.4355813
+    },
+    {
+        "id": 84,
+        "name": "La Machinerie",
+        "address": "70 Rue des Jacobins",
+        "postal_code": "80000.0",
+        "city": "Amiens",
+        "website": "www.lamachinerie.org",
+        "latitude": 49.890514,
+        "longitude": 2.3017172
+    },
+    {
+        "id": 85,
+        "name": "La Maison Bleue",
+        "address": "83-85 Rue Cauchoise",
+        "postal_code": "76000.0",
+        "city": "Rouen",
+        "website": "www.lamaisonbleue.mobi",
+        "latitude": 49.4450338,
+        "longitude": 1.086924
+    },
+    {
+        "id": 86,
+        "name": "La Maison du Coworking",
+        "address": "9 Allée de la Laiterie",
+        "postal_code": "59493.0",
+        "city": "cityneuve-d'Ascq",
+        "website": "www.lamaisonducoworking.fr",
+        "latitude": 50.6083437,
+        "longitude": 3.1667968
+    },
+    {
+        "id": 87,
+        "name": "La Manufacture",
+        "address": "21 Avenue Gabriel Chaigne",
+        "postal_code": "33190",
+        "city": "La Réole",
+        "website": "www.manufacturelareole.fr",
+        "latitude": 44.581192,
+        "longitude": -0.0312931
+    },
+    {
+        "id": 88,
+        "name": "La Passerelle",
+        "address": "40A Boulevard Limbert",
+        "postal_code": "84000.0",
+        "city": "Avignon",
+        "website": "www.lapasserelle.co",
+        "latitude": 43.950058,
+        "longitude": 4.819908
+    },
+    {
+        "id": 89,
+        "name": "La Plage ",
+        "address": "15 Route du Rhin",
+        "postal_code": "67100.0",
+        "city": "Strasbourg",
+        "website": "www.laplagedigitale.eu",
+        "latitude": 48.5365539,
+        "longitude": 7.7338728
+    },
+    {
+        "id": 90,
+        "name": "La Ruche ",
+        "address": "66 Rue Abbé de l'Épée",
+        "postal_code": "33000.0",
+        "city": "Bordeaux",
+        "website": "www.la-ruche.net",
+        "latitude": 44.8421683,
+        "longitude": -0.5828134
+    },
+    {
+        "id": 91,
+        "name": "La Ruche Coworking",
+        "address": "28 Boulevard National",
+        "postal_code": "13001.0",
+        "city": "Marseille",
+        "website": "www.la-ruche-marseille.org",
+        "latitude": 43.30283,
+        "longitude": 5.3866672
+    },
+    {
+        "id": 92,
+        "name": "La Ruche Numérique",
+        "address": "19 Boulevard Oyon",
+        "postal_code": "72100",
+        "city": "Le Mans",
+        "website": "www.laruchenumerique.com",
+        "latitude": 47.9950315,
+        "longitude": 0.1884479
+    },
+    {
+        "id": 93,
+        "name": "La Serre",
+        "address": "27 Bis Allée Maurice Sarraut",
+        "postal_code": "31300.0",
+        "city": "Toulouse",
+        "website": "www.la-serre.org",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 94,
+        "name": "La Tribu Coworking",
+        "address": "10 Rue du Docteur Leroy",
+        "postal_code": "72100.0",
+        "city": "Le Mans",
+        "website": "www.latribucw.fr",
+        "latitude": 48.003055,
+        "longitude": 0.1958721
+    },
+    {
+        "id": 95,
+        "name": "L'Annexe",
+        "address": "20 Rue d'Isly",
+        "postal_code": "35000.0",
+        "city": "Rennes",
+        "website": "www.lacantine-rennes.net",
+        "latitude": 48.1057064,
+        "longitude": -1.6775147
+    },
+    {
+        "id": 96,
+        "name": "L'Archipel",
+        "address": "26 Rue de Saint-Pétersbourg",
+        "postal_code": "75008.0",
+        "city": "Paris",
+        "website": "www.larchipel.paris",
+        "latitude": 48.8817889,
+        "longitude": 2.3257535
+    },
+    {
+        "id": 97,
+        "name": "L'Archipel",
+        "address": "31 Rue Chevalier Paul",
+        "postal_code": "83000.0",
+        "city": "Toulon",
+        "website": "www.archipel-toulon.fr",
+        "latitude": 43.1221199,
+        "longitude": 5.930896
+    },
+    {
+        "id": 98,
+        "name": "L'Asile",
+        "address": "26 Rue Rolland",
+        "postal_code": "33000.0",
+        "city": "Bordeaux",
+        "website": "www.lasile-bordeaux.fr",
+        "latitude": 44.8426347,
+        "longitude": -0.5811413
+    },
+    {
+        "id": 99,
+        "name": "L'Atelier",
+        "address": "3 Place du Marché",
+        "postal_code": "26150.0",
+        "city": "Die",
+        "website": "www.latelier.in",
+        "latitude": 44.7531185,
+        "longitude": 5.3701794
+    },
+    {
+        "id": 100,
+        "name": "L'Atelier du 9",
+        "address": "9 Rue du Moulin l'Abbé",
+        "postal_code": "62280.0",
+        "city": "Saint-Martin-Boulogne",
+        "website": "www.latelierdu9.fr",
+        "latitude": 50.7283356,
+        "longitude": 1.6770292
+    },
+    {
+        "id": 101,
+        "name": "Lawomatic",
+        "address": "20 Rue Jean Moinon",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.lawomatic.fr",
+        "latitude": 48.8741145,
+        "longitude": 2.3716287
+    },
+    {
+        "id": 102,
+        "name": "Lawomatic",
+        "address": "26 Rue du Chalet",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.lawomatic.fr",
+        "latitude": 48.8741288,
+        "longitude": 2.372894
+    },
+    {
+        "id": 103,
+        "name": "Le 10h10",
+        "address": "19 Rue de Cléry",
+        "postal_code": "75002.0",
+        "city": "Paris",
+        "website": "www.le10h10.com",
+        "latitude": 48.8680335,
+        "longitude": 2.3462106
+    },
+    {
+        "id": 104,
+        "name": "Le 17 bis",
+        "address": "17 Boulevard Pasteur",
+        "postal_code": "75015.0",
+        "city": "Paris",
+        "website": "www.le17bis.com",
+        "latitude": 48.8441771,
+        "longitude": 2.3120336
+    },
+    {
+        "id": 105,
+        "name": "Le 50",
+        "address": "50 Avenue Léon Crète",
+        "postal_code": "78490.0",
+        "city": "Méré",
+        "website": "www.le-50.fr",
+        "latitude": 48.7864065,
+        "longitude": 1.8123347
+    },
+    {
+        "id": 106,
+        "name": "Le Capitole",
+        "address": "17 Avenue Albert Rouvière",
+        "postal_code": "81200.0",
+        "city": "Mazamet",
+        "website": "www.lecapitole-entreprises.fr",
+        "latitude": 43.497081,
+        "longitude": 2.3755784
+    },
+    {
+        "id": 107,
+        "name": "Le Cl'hub",
+        "address": "23 Boulevard du Général Leclerc",
+        "postal_code": "59100.0",
+        "city": "Roubaix",
+        "website": "www.leclhub.fr",
+        "latitude": 50.688485,
+        "longitude": 3.176088
+    },
+    {
+        "id": 108,
+        "name": "Le Container",
+        "address": "Quai Frissard",
+        "postal_code": "76600.0",
+        "city": "Le Havre",
+        "website": "www.lecontainer.co",
+        "latitude": 49.4888696,
+        "longitude": 0.1212037
+    },
+    {
+        "id": 109,
+        "name": "Le Gymnase",
+        "address": "1 Passage Saint-Bernard",
+        "postal_code": "75011.0",
+        "city": "Paris",
+        "website": "www.legymnase.com",
+        "latitude": 48.8507545,
+        "longitude": 2.3796483
+    },
+    {
+        "id": 110,
+        "name": "Le Laptop",
+        "address": "6 Rue Arthur Rozier",
+        "postal_code": "75019.0",
+        "city": "Paris",
+        "website": "www.lelaptop.com",
+        "latitude": 48.8773972,
+        "longitude": 2.3907515
+    },
+    {
+        "id": 111,
+        "name": "Le Loft 50 Partners",
+        "address": "62 Rue Jean-Jacques Rousseau",
+        "postal_code": "75001.0",
+        "city": "Paris",
+        "website": "www.leloft50partners.com",
+        "latitude": 48.8640954,
+        "longitude": 2.3438023
+    },
+    {
+        "id": 112,
+        "name": "Le Numéro Cinq",
+        "address": "5 Rue de la Rousselle",
+        "postal_code": "33000.0",
+        "city": "Bordeaux",
+        "website": "www.bordeauxcoworking.com",
+        "latitude": 44.8375504,
+        "longitude": -0.5693933
+    },
+    {
+        "id": 113,
+        "name": "Le Patchwork",
+        "address": "8 Rue de Cléry",
+        "postal_code": "75002.0",
+        "city": "Paris",
+        "website": "www.patchwork.co",
+        "latitude": 48.8675385,
+        "longitude": 2.3449169
+    },
+    {
+        "id": 114,
+        "name": "Le Patio",
+        "address": "212 Avenue de Tivoli",
+        "postal_code": "33110",
+        "city": "Le Bouscat",
+        "website": "www.lepatiocoworking.fr",
+        "latitude": 44.8669787,
+        "longitude": -0.5963243
+    },
+    {
+        "id": 115,
+        "name": "Le Petit Musc",
+        "address": "28 Rue du Petit Musc",
+        "postal_code": "75004.0",
+        "city": "Paris",
+        "website": "www.lepetitmusc.fr",
+        "latitude": 48.8528636,
+        "longitude": 2.3645847
+    },
+    {
+        "id": 116,
+        "name": "Le Phare",
+        "address": "50 Boulevard Gambetta",
+        "postal_code": "87000.0",
+        "city": "Limoges",
+        "website": "www.lephare-limoges.com",
+        "latitude": 45.8284347,
+        "longitude": 1.2565531
+    },
+    {
+        "id": 117,
+        "name": "Le Préau",
+        "address": "Le Village",
+        "postal_code": "07200",
+        "city": "Saint-Étienne-de-Boulogne",
+        "website": "www.lepreau.org",
+        "latitude": 44.7017724,
+        "longitude": 4.4589115
+    },
+    {
+        "id": 118,
+        "name": "Le P'tit Bureau",
+        "address": "4 Rue Claudius Perillat",
+        "postal_code": "73200.0",
+        "city": "Albertcity",
+        "website": "www.leptitbureau-cowork.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 119,
+        "name": "Le QG",
+        "address": "4 Rue des Casernes",
+        "postal_code": "01000",
+        "city": "Bourg-en-Bresse",
+        "website": "www.le-qg.org",
+        "latitude": 46.204877,
+        "longitude": 5.222643
+    },
+    {
+        "id": 120,
+        "name": "Le Troquet Numérique",
+        "address": "Place Charlie Chaplin",
+        "postal_code": "38300.0",
+        "city": "Bourgoin-Jallieu",
+        "website": "www.troquet-numerique.org",
+        "latitude": 45.588921,
+        "longitude": 5.2772254
+    },
+    {
+        "id": 121,
+        "name": "Le Vaisseau",
+        "address": "17 Rue Jean Perrin",
+        "postal_code": "17000",
+        "city": "La Rochelle",
+        "website": "www.levaisseau.pro",
+        "latitude": 46.1406199,
+        "longitude": -1.1580131
+    },
+    {
+        "id": 122,
+        "name": "Les 6 degrés",
+        "address": "8 Rue André Chaude",
+        "postal_code": "06400",
+        "city": "Cannes",
+        "website": "www.les6degres.com",
+        "latitude": 43.5556696,
+        "longitude": 7.0176991
+    },
+    {
+        "id": 123,
+        "name": "Les Usines Nouvelles",
+        "address": "Avenue de la Plage",
+        "postal_code": "86240.0",
+        "city": "Ligugé",
+        "website": "www.lesusinesnouvelles.com",
+        "latitude": 46.5186075,
+        "longitude": 0.3337492
+    },
+    {
+        "id": 124,
+        "name": "L'Escale Numérique",
+        "address": "9 Rue du Président Wilson",
+        "postal_code": "24000.0",
+        "city": "Périgueux",
+        "website": "www.escalenumerique.fr",
+        "latitude": 45.1836882,
+        "longitude": 0.7174461
+    },
+    {
+        "id": 125,
+        "name": "L'Estrade",
+        "address": "39 Rue Jules Noriac",
+        "postal_code": "87000.0",
+        "city": "Limoges",
+        "website": "www.estrade87.fr",
+        "latitude": 45.8352277,
+        "longitude": 1.2571268
+    },
+    {
+        "id": 126,
+        "name": "L'Usine",
+        "address": "6 Rue de l'Étang",
+        "postal_code": "90000.0",
+        "city": "Belfort",
+        "website": "www.lusineabelfort.fr",
+        "latitude": 47.6436723,
+        "longitude": 6.8441652
+    },
+    {
+        "id": 127,
+        "name": "Melchior",
+        "address": "275 Rue de l'Église",
+        "postal_code": "69390.0",
+        "city": "Charly",
+        "website": "www.clubmelchior.fr",
+        "latitude": 45.6468205,
+        "longitude": 4.7960554
+    },
+    {
+        "id": 128,
+        "name": "Mix Coworking",
+        "address": "6 Avenue Joannes Hubert",
+        "postal_code": "69160.0",
+        "city": "Tassin-la-Demi-Lune",
+        "website": "www.mix-coworking.fr",
+        "latitude": 45.7645164,
+        "longitude": 4.7806694
+    },
+    {
+        "id": 129,
+        "name": "Mutinerie 14",
+        "address": "17 Rue Ledion",
+        "postal_code": "75014.0",
+        "city": "Paris",
+        "website": "www.mutinerie.org",
+        "latitude": 48.8272041,
+        "longitude": 2.3162674
+    },
+    {
+        "id": 130,
+        "name": "MyCowork",
+        "address": "54 Rue Greneta",
+        "postal_code": "75002.0",
+        "city": "Paris",
+        "website": "www.mycowork.fr",
+        "latitude": 48.8655286,
+        "longitude": 2.347994
+    },
+    {
+        "id": 131,
+        "name": "NetCoworking",
+        "address": "11 Rue de Magdebourg",
+        "postal_code": "75116.0",
+        "city": "Paris",
+        "website": "www.netcoworking.com",
+        "latitude": 48.8645773,
+        "longitude": 2.2892494
+    },
+    {
+        "id": 132,
+        "name": "Now Coworking",
+        "address": "53 Boulevard des Belges",
+        "postal_code": "76000.0",
+        "city": "Rouen",
+        "website": "www.now-coworking.com",
+        "latitude": 49.443954,
+        "longitude": 1.084992
+    },
+    {
+        "id": 133,
+        "name": "Nuage Café",
+        "address": "14 Rue des Carmes",
+        "postal_code": "75005.0",
+        "city": "Paris",
+        "website": "www.nuagecafe.fr",
+        "latitude": 48.8491517,
+        "longitude": 2.3474993
+    },
+    {
+        "id": 134,
+        "name": "Panorama Coworking",
+        "address": "18 Rue des Pontonniers",
+        "postal_code": "67000.0",
+        "city": "Strasbourg",
+        "website": "www.panorama-coworking.fr",
+        "latitude": 48.5843279,
+        "longitude": 7.7576823
+    },
+    {
+        "id": 135,
+        "name": "Plaine Co Working",
+        "address": "10 Rue Waldeck Rochet",
+        "postal_code": "93300.0",
+        "city": "Aubervilliers",
+        "website": "www.plainecoworking.org",
+        "latitude": 48.910158,
+        "longitude": 2.368229
+    },
+    {
+        "id": 136,
+        "name": "Point Sud",
+        "address": "33 Rue Alphonse Karr",
+        "postal_code": "83700.0",
+        "city": "Saint-Raphaël",
+        "website": "www.point-sud.fr",
+        "latitude": 43.4238595,
+        "longitude": 6.7671392
+    },
+    {
+        "id": 137,
+        "name": "Polidesk",
+        "address": "Parc d'Activité de Doaren Molac",
+        "postal_code": "56610.0",
+        "city": "Arradon",
+        "website": "www.polidesk.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 138,
+        "name": "Remix Coworking",
+        "address": "24 Cour des Petites Ecuries",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.remixcoworking.com",
+        "latitude": 48.8723797,
+        "longitude": 2.3515217
+    },
+    {
+        "id": 139,
+        "name": "Rooftop-Work",
+        "address": "47 Avenue de la Grande Armée",
+        "postal_code": "75116.0",
+        "city": "Paris",
+        "website": "www.rooftop-work.paris",
+        "latitude": 48.8754721,
+        "longitude": 2.2886072
+    },
+    {
+        "id": 140,
+        "name": "Rueil 92 Coworking",
+        "address": "9-15 Avenue Paul Doumer",
+        "postal_code": "92500.0",
+        "city": "Rueil-Malmaison",
+        "website": "www.rueil-92-coworking.com",
+        "latitude": 48.8812663,
+        "longitude": 2.1844118
+    },
+    {
+        "id": 141,
+        "name": "Safi CoWorking",
+        "address": "20 Rue des Poilus",
+        "postal_code": "83470.0",
+        "city": "Saint-Maximin-la-Sainte-Baume",
+        "website": "www.associationsafi.org",
+        "latitude": 43.4546329,
+        "longitude": 5.8623135
+    },
+    {
+        "id": 142,
+        "name": "Sceaux Smart",
+        "address": "10 Rue Gaston Lévy",
+        "postal_code": "92330.0",
+        "city": "Sceaux",
+        "website": "www.sceauxsmart.fr",
+        "latitude": 48.7778874,
+        "longitude": 2.2869093
+    },
+    {
+        "id": 143,
+        "name": "Sofffa",
+        "address": "17 Rue Sainte-Catherine",
+        "postal_code": "69001.0",
+        "city": "Lyon",
+        "website": "www.sofffa.com",
+        "latitude": 45.7682527,
+        "longitude": 4.83392
+    },
+    {
+        "id": 144,
+        "name": "Sonuts",
+        "address": "2873 Route de Galice",
+        "postal_code": "13090.0",
+        "city": "Aix-en-Provence",
+        "website": "www.sonuts-coworking.com",
+        "latitude": 43.5284969,
+        "longitude": 5.4244521
+    },
+    {
+        "id": 145,
+        "name": "Split Coworking",
+        "address": "3 Rue Stephenson",
+        "postal_code": "75018.0",
+        "city": "Paris",
+        "website": "www.split-coworking.fr",
+        "latitude": 48.8852959,
+        "longitude": 2.3566771
+    },
+    {
+        "id": 146,
+        "name": "Square Colmar",
+        "address": "20 Rue d'Agen",
+        "postal_code": "68000.0",
+        "city": "Colmar",
+        "website": "www.square-colmar.com",
+        "latitude": 48.0860761,
+        "longitude": 7.3544108
+    },
+    {
+        "id": 147,
+        "name": "StartUp Palace",
+        "address": "18 Rue Scribe",
+        "postal_code": "44000.0",
+        "city": "Nantes",
+        "website": "www.startup-palace.com",
+        "latitude": 47.2140677,
+        "longitude": -1.5621824
+    },
+    {
+        "id": 148,
+        "name": "Start-Way",
+        "address": "6 Rue Guy-de-Gouyon du Verger",
+        "postal_code": "94110.0",
+        "city": "Arceuil",
+        "website": "www.start-way.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 149,
+        "name": "Start-Way",
+        "address": "1 impasse du Bel Air",
+        "postal_code": "94110.0",
+        "city": "Arceuil",
+        "website": "www.start-way.com",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 150,
+        "name": "Start-Way",
+        "address": "100 Boulevard Beaumarchais",
+        "postal_code": "75003.0",
+        "city": "Paris",
+        "website": "www.start-way.com",
+        "latitude": 48.8604475,
+        "longitude": 2.3676298
+    },
+    {
+        "id": 151,
+        "name": "Start-Way",
+        "address": "15 Rue Danton",
+        "postal_code": "94270.0",
+        "city": "Le Kremlin-Bicêtre",
+        "website": "www.start-way.com",
+        "latitude": 48.8130471,
+        "longitude": 2.3593397
+    },
+    {
+        "id": 152,
+        "name": "Start-Way",
+        "address": "94 Rue des Sorins",
+        "postal_code": "93100.0",
+        "city": "Montreuil",
+        "website": "www.start-way.com",
+        "latitude": 48.8587381,
+        "longitude": 2.4238836
+    },
+    {
+        "id": 153,
+        "name": "The Fashion Loft",
+        "address": "42 Rue d'Enghien",
+        "postal_code": "75010.0",
+        "city": "Paris",
+        "website": "www.nirparis.fr",
+        "latitude": 48.8723219,
+        "longitude": 2.3491084
+    },
+    {
+        "id": 154,
+        "name": "Un jour ici",
+        "address": "500 Route des Lucioles",
+        "postal_code": "06560",
+        "city": "Valbonne",
+        "website": "www.unjourici.fr",
+        "latitude": 43.6158898,
+        "longitude": 7.0504726
+    },
+    {
+        "id": 155,
+        "name": "Village factory",
+        "address": "2 Rue du Lavoir",
+        "postal_code": "72430.0",
+        "city": "Asnières-sur-Vègre",
+        "website": "www.village-factory.net",
+        "latitude": 47.8881416,
+        "longitude": -0.2329275
+    },
+    {
+        "id": 156,
+        "name": "Waw Coworking",
+        "address": "12 Boulevard Gambetta",
+        "postal_code": "11100.0",
+        "city": "Narbonne",
+        "website": "www.waw-coworking.com",
+        "latitude": 43.1834789,
+        "longitude": 3.0081661
+    },
+    {
+        "id": 157,
+        "name": "We Forge",
+        "address": "25 Rue Lenepveu",
+        "postal_code": "49000.0",
+        "city": "Angers",
+        "website": "www.weforge.fr",
+        "latitude": 47.472023,
+        "longitude": -0.551298
+    },
+    {
+        "id": 158,
+        "name": "Weecolab",
+        "address": "53 Rue Pomme d'Or",
+        "postal_code": "33300.0",
+        "city": "Bordeaux",
+        "website": "www.weecolab.com",
+        "latitude": 44.8541841,
+        "longitude": -0.5702014
+    },
+    {
+        "id": 159,
+        "name": "Weréso",
+        "address": "104 Rue nationale",
+        "postal_code": "59800.0",
+        "city": "Lille",
+        "website": "www.wereso.com",
+        "latitude": 50.6353783,
+        "longitude": 3.0583989
+    },
+    {
+        "id": 160,
+        "name": "Work and Co",
+        "address": "15 Rue du jeu de Mail",
+        "postal_code": "59140.0",
+        "city": "Dunkerque",
+        "website": "www.worketco.fr",
+        "latitude": 51.0271722,
+        "longitude": 2.369727
+    },
+    {
+        "id": 161,
+        "name": "Work In La Rochelle",
+        "address": "24 Rue du Bastion Saint-Nicolas",
+        "postal_code": "17000",
+        "city": "La Rochelle",
+        "website": "www.coworking-larochelle.fr",
+        "latitude": 46.1540189,
+        "longitude": -1.1457873
+    },
+    {
+        "id": 162,
+        "name": "Work in Paris",
+        "address": "350 Rue de Vaugirard",
+        "postal_code": "75015.0",
+        "city": "Paris",
+        "website": "www.workinparis.com",
+        "latitude": 48.8362572,
+        "longitude": 2.2941487
+    },
+    {
+        "id": 163,
+        "name": "Work in Pau",
+        "address": "1 Avenue du Président Pierre Angot",
+        "postal_code": "64000.0",
+        "city": "Pau",
+        "website": "www.workinpau.com",
+        "latitude": 43.3200875,
+        "longitude": -0.3675547
+    },
+    {
+        "id": 164,
+        "name": "Yelloworking",
+        "address": "45 Rue Roux Alpheran",
+        "postal_code": "13100.0",
+        "city": "Aix-en-Provence",
+        "website": "www.yelloworking.com",
+        "latitude": 43.5249607,
+        "longitude": 5.4511102
+    },
+    {
+        "id": 165,
+        "name": "Zam Coworking",
+        "address": "Rue de l'Industrie",
+        "postal_code": "51160.0",
+        "city": "Ay",
+        "website": "www.zamcoworking.com",
+        "latitude": 47.335941,
+        "longitude": -0.0670842
+    },
+    {
+        "id": 166,
+        "name": "ZeBocal",
+        "address": "21 Rue Gaston Hulin",
+        "postal_code": "86000.0",
+        "city": "Poitiers",
+        "website": "www.zebocal.fr",
+        "latitude": 46.5822958,
+        "longitude": 0.340369
+    }
+]

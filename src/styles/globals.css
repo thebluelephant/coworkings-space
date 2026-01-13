@@ -1,6 +1,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #FF4D00;
+  --primary-light: #FFF2EC;
+  --grey: #4b5563;
+  --light-grey: #F3F4F6;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -10,10 +14,19 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+}
+
+button {
+  border: transparent;
+  cursor: pointer;
 }
 
 body {
@@ -33,6 +46,45 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+h1 {
+  color: black;
+  font-size: 5em;
+}
+
+h2 {
+  font-size: 3em;
+  color: black;
+}
+
+h3 {
+  color: #4B5563;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+h4 {
+  color: black;
+  font-size: 1.5em;
+}
+
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.3em;
+  }
+
+  h4 {
+    font-size: 1em;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
