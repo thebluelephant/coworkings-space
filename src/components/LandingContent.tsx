@@ -1,12 +1,14 @@
+'use client'
+
 import React from "react";
 import Image from "next/image";
 import s from './LandingContent.module.scss'
 import Link from "next/link";
-import useIsMobile from "@/utils/useIsMobile";
+//import useIsMobile from "@/utils/useIsMobile";
 
 
 const LandingContent: React.FC = () => {
-    const isMobile = useIsMobile()
+    // const isMobile = useIsMobile()
     return (
         <div className={s.landingContent} id="home">
             <div className={s.content}>
@@ -27,8 +29,8 @@ const LandingContent: React.FC = () => {
                     className={s.image}
                     src="/images/landing-image.png"
                     alt="coworking image"
-                    height={isMobile ? 250 : 700}
-                    width={isMobile ? 400 : 700}
+                    height={700} // {isMobile ? 250 : 700}
+                    width={700}//{isMobile ? 400 : 700}
                 />
             </div>
         </div>

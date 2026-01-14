@@ -1,3 +1,5 @@
+'use client'
+
 import React from "react";
 import { MapContainer, Marker, TileLayer } from "react-leaflet"
 import s from './Map.module.scss';
@@ -38,6 +40,7 @@ const defaultMarker = new L.Icon({
 
 
 const Plan: React.FC<PlanProps> = ({ coworkings, onMarkerClick, selectedCoworkingId }) => {
+
     return (
         <div className={s.plan}>
             <MapContainer className={s.planContainer} center={[46.813, 1.69]} zoom={6} scrollWheelZoom={false}>

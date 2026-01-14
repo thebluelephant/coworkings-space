@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useEffect, useMemo, useState } from "react";
 import s from './Map.module.scss';
 import "../../styles/globals.css";
@@ -6,7 +8,6 @@ import coworkings from '../../../public/documents/coworkings.json'
 import { Coworking, CoworkingDetailsType } from "@/utils/types";
 import CoworkingDetails from "./CoworkingDetails";
 import AddCoworkModal from "./AddCoworkModal";
-
 
 const Map: React.FC = ({ }) => {
     const [coworkingDetails, setCoworkingsDetails] = useState<CoworkingDetailsType | null>(null)

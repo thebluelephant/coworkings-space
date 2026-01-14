@@ -1,3 +1,5 @@
+'use client'
+
 import React from "react";
 import s from './Menu.module.scss';
 import Link from "next/link";

@@ -1,3 +1,5 @@
+'use client'
+
 import { CoworkingDetailsType } from "@/utils/types";
 import React, { useMemo } from "react";
 import s from './CoworkingDetails.module.scss'

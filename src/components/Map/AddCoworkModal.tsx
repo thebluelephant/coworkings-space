@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from "react";
 import { supabase } from '../../utils/supabase.config'
 import s from './AddCoworkModal.module.scss'

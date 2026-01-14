@@ -1,13 +1,28 @@
-import React from "react";
+'use client'
+
+import React, { useEffect, useState, startTransition } from "react";
 import s from './Blog.module.scss'
 import { Posts } from "@/utils/types";
 
-type BlogProps = {
-    posts: Posts
-};
+const Blog: React.FC = () => {
+    const [posts, setPosts] = useState<Posts>([])
+    const getPosts = async () => {
+        const locale =
+            typeof navigator !== "undefined"
+                ? navigator.language.slice(0, 2)
+                : "en";
 
+        const res = await fetch(`https://blog.coworkings.space/wp-json/wp/v2/posts?language=${locale}&_embed&_fields=id,slug,title,link,_links,_embedded&per_page=3`);
+        const data: Posts = await res.json();
+        if (data.length) {
+            startTransition(() => setPosts(data))
+        }
+    }
 
-const Blog: React.FC<BlogProps> = ({ posts }) => {
+    useEffect(() => {
+        getPosts()
+    }, []);
+
     return (
         <div className={s.blog}>
             <div className={s.chip}>📖 Le Blog</div>
