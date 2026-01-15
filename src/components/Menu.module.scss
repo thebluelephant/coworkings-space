@@ -1,8 +1,7 @@
 .menu {
     display: flex;
     align-items: center;
-    justify-content: end;
-    gap: 30px;
+    justify-content: space-between;
     height: 80px;
     padding: 0 30px;
     background-color: white;
@@ -16,14 +15,39 @@
     box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 
     @media (max-width: 1000px) {
-        height: 60px;
-        justify-content: space-around;
+        flex-direction: column;
+        gap: 20px;
+        height: auto;
+        padding: 20px 10px;
     }
 
-    .link {
-        &:hover {
-            color: var(--primary);
+    h3 {
+        font-weight: bold;
+        color: var(--primary);
+
+        span {
+            color: black;
         }
     }
 
+    .title {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+        img {
+            height: 25px;
+        }
+    }
+
+    .links {
+        display: flex;
+        gap: 30px;
+
+        .link {
+            &:hover {
+                color: var(--primary);
+            }
+        }
+    }
 }

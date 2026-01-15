@@ -39,7 +39,7 @@ const Map: React.FC = ({ }) => {
             <div className={s.chip}>📖 La Map</div>
             <div className={s.header}>
                 <h2>Explorez les coworkings</h2>
-                <p>Cliquez sur un repère pour en découvrir plus sur un coworking </p>
+                <p>Cliquez sur un repère pour en découvrir plus sur un espace.</p>
             </div>
             <div className={s.content} id="coworkings">
                 <Plan coworkings={coworkings as Coworking[]} onMarkerClick={(coworking) => setCoworkingsDetails({ ...coworking, type: 'selected' })} selectedCoworkingId={coworkingDetails?.id} />

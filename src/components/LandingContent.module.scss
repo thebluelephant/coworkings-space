@@ -9,7 +9,8 @@
     @media (max-width: 1000px) {
         flex-direction: column-reverse;
         padding: 30px;
-        gap: 15px
+        gap: 15px;
+        margin-top: 120px
     }
 
     &>* {
@@ -23,7 +24,6 @@
         &:last-child {
             @media (max-width: 1000px) {
                 align-items: center;
-                justify-content: flex-end;
             }
         }
     }
@@ -44,8 +44,12 @@
     }
 
     .image {
-        object-fit: none;
-        border-radius: 30px;
+        object-fit: contain;
+        width: 55vw;
+
+        @media (max-width: 1000px) {
+            width: 90vw;
+        }
     }
 
     .buttons {
@@ -66,6 +70,7 @@
             &:first-child {
                 background-color: var(--primary);
                 box-shadow: 0 8px 24px #ffaca8a8;
+                color: white;
             }
 
             &:last-child {

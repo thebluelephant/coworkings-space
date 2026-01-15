@@ -1,19 +1,16 @@
 'use client'
 
 import React from "react";
-import Image from "next/image";
 import s from './LandingContent.module.scss'
 import Link from "next/link";
-//import useIsMobile from "@/utils/useIsMobile";
 
 
 const LandingContent: React.FC = () => {
-    // const isMobile = useIsMobile()
     return (
         <div className={s.landingContent} id="home">
             <div className={s.content}>
-                <h1>Travaillez, <br /> <span>connectez</span>, <br /> inspirez</h1>
-                <h3>Rejoignez des milliers de créatifs qui réinventent le travail chaque jour.</h3>
+                <h1>Découvrez, <br /> <span>inspirez</span>, <br /> travaillez</h1>
+                <h3>Découvrez et explorez le monde du coworking</h3>
                 <div className={s.buttons}>
                     <Link href="#coworkings" className={s.button}>
                         Découvrir les spots
@@ -25,13 +22,7 @@ const LandingContent: React.FC = () => {
 
             </div>
             <div>
-                <Image
-                    className={s.image}
-                    src="/images/landing-image.png"
-                    alt="coworking image"
-                    height={700} // {isMobile ? 250 : 700}
-                    width={700}//{isMobile ? 400 : 700}
-                />
+                <img className={s.image} src="/images/landing-image.png" />
             </div>
         </div>
     )

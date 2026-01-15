@@ -1,0 +1,50 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    height: 200px;
+    padding: 30px;
+    background-color: #111827;
+    color: #9DA3AF;
+    font-size: 15px;
+    width: 100%;
+
+    @media (max-width: 1000px) {
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+
+    }
+
+    .col {
+        display: flex;
+        flex-direction: column;
+
+        .title {
+            color: white;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        &:first-child {
+            gap: 5px;
+
+            p {
+                &:first-child {
+                    color: var(--primary);
+                    font-weight: bold;
+                    font-size: 25px;
+                }
+            }
+        }
+    }
+
+    .link {
+        margin-bottom: 10px;
+
+        &:hover {
+            color: var(--primary);
+        }
+    }
+
+}

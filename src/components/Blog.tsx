@@ -24,19 +24,23 @@ const Blog: React.FC = () => {
     }, []);
 
     return (
-        <div className={s.blog}>
+        <div className={s.blog} id="articles">
             <div className={s.chip}>📖 Le Blog</div>
             <h2>Derniers articles</h2>
             <div className={s.blogPosts}>
                 {
-                    posts.map((post) =>
-                        <div className={s.postCard} key={post.id}>
-                            <img src={post._embedded["wp:featuredmedia"][0].source_url} alt="" />
-                            <div className={s.content}>
-                                <h4>{post.title?.rendered}</h4>
-                                <a href={post.link}>Lire →</a>
+                    posts.map((post) => {
+                        const image = post._embedded?.["wp:featuredmedia"]?.[0]?.source_url;
+                        return (
+                            <div className={s.postCard} key={post.id}>
+                                {image && <img src={image} alt={post.title?.rendered ?? ""} />}
+                                <div className={s.content}>
+                                    <h4>{post.title?.rendered}</h4>
+                                    <a href={post.link}>Lire →</a>
+                                </div>
                             </div>
-                        </div>
+                        )
+                    }
                     )
                 }
             </div>
