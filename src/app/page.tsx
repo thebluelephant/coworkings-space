@@ -5,15 +5,16 @@ import LandingContent from "@/components/LandingContent";
 import Blog from "@/components/Blog";
 import Map from "@/components/Map/Map"
 import Footer from "@/components/Footer";
+import { fetchAllCoworkings } from "@/api/coworkings";
 
-
-export default function Home() {
+export default async function Home() {
+    const coworkings = await fetchAllCoworkings()
     return (
         <div className={s.page}>
             <Menu />
             <LandingContent />
             <Blog />
-            <Map />
+            <Map coworkings={coworkings} />
             <Footer />
         </div>
     );

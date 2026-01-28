@@ -12,7 +12,7 @@ import { Coworking } from "@/utils/types";
 type PlanProps = {
     coworkings: Coworking[]
     onMarkerClick: (coworking: Coworking) => void
-    selectedCoworkingId?: number
+    selectedCoworkingId?: string
 }
 
 const selectedMarker = new L.Icon({
@@ -49,12 +49,12 @@ const Plan: React.FC<PlanProps> = ({ coworkings, onMarkerClick, selectedCoworkin
                 />
                 {
                     coworkings.map((coworking) => {
-                        if (coworking.latitude && coworking.longitude) {
+                        if (coworking.lat && coworking.long) {
                             return (
                                 <Marker
                                     icon={selectedCoworkingId === coworking.id ? selectedMarker : defaultMarker}
-                                    key={coworking.id}
-                                    position={[coworking.latitude, coworking.longitude]}
+                                    key={coworking.supabase_id}
+                                    position={[Number(coworking.lat), Number(coworking.long)]}
                                     eventHandlers={{
                                         click: () => { onMarkerClick(coworking) }
                                     }} />

@@ -4,14 +4,17 @@ import React, { useEffect, useMemo, useState } from "react";
 import s from './Map.module.scss';
 import "../../styles/globals.css";
 import dynamic from "next/dynamic";
-import coworkings from '../../../public/documents/coworkings.json'
 import { Coworking, CoworkingDetailsType } from "@/utils/types";
 import CoworkingDetails from "./CoworkingDetails";
 import AddCoworkModal from "./AddCoworkModal";
 
-const Map: React.FC = ({ }) => {
+type Props = {
+    coworkings: Coworking[] | null
+}
+const Map: React.FC<Props> = ({ coworkings }) => {
     const [coworkingDetails, setCoworkingsDetails] = useState<CoworkingDetailsType | null>(null)
     const [addCoworkModalOpen, setAddCoworkModalOpen] = useState(false)
+
     const Plan = useMemo(() => dynamic(
         () => import('@/components/Map/Plan'),
         {
@@ -22,9 +25,12 @@ const Map: React.FC = ({ }) => {
 
 
     const getRandomCoworking = () => {
+        if (!coworkings) {
+            return
+        }
         const randomIndex = Math.floor(Math.random() * 155)
         const randomCoworking = coworkings[randomIndex]
-        if (randomCoworking.latitude && randomCoworking.longitude) {
+        if (randomCoworking.lat && randomCoworking.long) {
             setCoworkingsDetails({ ...randomCoworking, type: 'random' })
         }
     }
@@ -32,6 +38,10 @@ const Map: React.FC = ({ }) => {
     useEffect(() => {
         getRandomCoworking()
     }, []);
+
+    if (!coworkings) {
+        return null
+    }
 
     return (
         <div className={s.map}>
@@ -47,9 +57,7 @@ const Map: React.FC = ({ }) => {
                     <CoworkingDetails coworking={coworkingDetails} />
                     <button onClick={() => setAddCoworkModalOpen(true)}>+ Ajouter votre coworking</button>
                 </div>
-
             </div>
-
         </div>
     )
 };

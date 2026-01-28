@@ -34,8 +34,8 @@ const AddCoworkModal: React.FC<AddCoworkModalProps> = ({ isOpen, onClose }) => {
             return
         } else {
             setHasError(false)
-            const { data, error } = await supabase
-                .from('coworkings')
+            const { error } = await supabase
+                .from('coworkings_from_users')
                 .insert([
                     { name: form.name, address: form.address, city: form.city, postal_code: form.postal_code, website: form.website },
                 ])
@@ -44,6 +44,7 @@ const AddCoworkModal: React.FC<AddCoworkModalProps> = ({ isOpen, onClose }) => {
                 setForm(defaultForm)
                 setOnSuccessSubmit(true)
                 setTimeout(() => {
+                    setOnSuccessSubmit(false)
                     onClose()
                 }, 2000);
             }

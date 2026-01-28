@@ -1,14 +1,20 @@
 export type Coworking = {
-    id: number;
-    name: string;
+    supabase_id: number,
+    id: string;
+    created_at: string;
     address: string;
-    postal_code: string;
     city: string;
-    website: string;
-    latitude: number;
-    longitude: number;
+    postal_code: string;
+    phone?: string;
+    lat: string;
+    long: string;
+    name: string;
+    website?: string
 };
 
+export type CoworkingFromUser = Coworking & {
+    validated: boolean
+}
 export type CoworkingDetailsType = Coworking & { type: 'random' | 'selected' }
 
 
